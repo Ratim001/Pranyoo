@@ -1,7 +1,4 @@
-<<<<<<< HEAD
 # acha tuone
-=======
->>>>>>> temp_branch
 USE alx_book_store;
 
 CREATE TABLE Authors (
